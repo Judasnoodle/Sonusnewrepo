@@ -1,12 +1,12 @@
-15
+16
 ||| 
-[B][COLOR white]Welcome to Sonus Tv Lite![/COLOR][/B]
+[B][COLOR white]Welcome to Sonus Tv Lite![/COLOR][/B] [B][COLOR white]New Update 2017-09-09[/COLOR][/B]
 For the Full version Of Sonus Tv (Including Live Tv,sports,retro gaming,Kids section,Programming support,and much more!)
 Contact us @ [B][COLOR white]sonusbuild@gmail.com[/COLOR][/B] or [B][COLOR white]https://www.facebook.com/sonusbuilds/[/COLOR][/B]
 
-This is a free version For anyone to use. If you purchased this version you have been scammed!
-[B][COLOR white]New Shipment Of Sonus X92 Android Boxes and wireless remotes Available. Contact for more Info![/COLOR][/B]
-
-Thanks for Using Sonus Lite! New update will be available 2017-09-09! [B][COLOR Red]UFC Live Links will be Avaialable![/COLOR][/B]
-Stay Tuned When the update is available It will be on this Notification. And a How to update!
+[B][COLOR white]How to Update[/COLOR][/B]
+Go to device settings>Apps>Sonus Lite>Clear Data. Reopen Sonus Lite and Click start
+-Added PPV Section
+-Added Sports Central
+-Added Cartoon Section
 Enjoy!
